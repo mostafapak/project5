@@ -1,0 +1,560 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.header1{
+    background-color:rgb(19, 44, 60);
+    height: 70px;
+    margin-top: -20px;
+    
+}
+.header1 p{
+    color: aliceblue;
+    margin-left: 150px;
+    padding-top: 30px;
+}
+.header2{
+    background-color: rgb(7, 59, 76);
+    height: 80px;
+}
+.header2 img{
+    margin-top: -5px;
+    margin-left: 125px;
+}
+.nav-item a{
+    color: aliceblue;
+}
+/*.search{
+    margin-left: 37%;
+    margin-top: -50px;
+}
+.search input{
+    width: 300px;
+    height: 50px;
+    
+    float: right;
+    margin-right: 70px;
+    border-radius: 5px;
+}*/
+.div11{
+    width: 200px;
+    border: 2px solid black;
+}
+.p-h1{
+    margin-left: 150px;
+}
+.p-a{
+    margin-left: 150px;
+}
+.p-a a{
+    text-decoration: none;
+}
+#a1{
+    color: rgb(63, 175, 63);
+}
+#a2{
+    color: gray;
+}
+#a1:hover{
+    color: rgb(7, 59, 76);
+    text-decoration: underline;
+}
+#a2:hover{
+    cursor:auto;
+}
+.plate{
+    margin-top: 30px;
+}
+
+.search{
+    float: right;
+    margin-top: -70px;
+    margin-right: 105px;
+
+}
+.search input{
+    width: 350px;
+    border: 1px solid gray;
+}
+.search i{
+    position: absolute;
+    margin-left: 310px;
+    margin-top: -40px;
+    cursor: pointer;
+}
+#cont{
+    margin-left: 150px;
+    margin-top: 30px;
+}
+#cont-img{
+    background-image: url("../img/facebook-post-mockup.avif");
+    width: 800px;
+    height: 830px;
+    background-repeat: no-repeat;
+    background-size:contain;
+
+}
+
+.div22 a{
+    color: aliceblue;
+    text-decoration: none;
+    border-radius: 3px;
+}
+.cont-a1{
+    background-color:rgb(9, 183, 128);
+    padding: 15px 150px;
+}
+.cont-a11{
+    background-color:rgb(66, 66, 208);
+    padding: 15px 150px;
+}
+
+.div22 i{
+    position: absolute;
+    left: 77.8%;
+    top: 39.5%;
+    color: aliceblue;
+}
+#div3{
+    margin-top: 40px;
+}
+#div3 a{
+    color: aliceblue;
+    text-decoration: none;
+    border-radius: 3px;
+}
+.p .p1{
+    float: left;
+    margin-top: 40px;
+}
+.p span{
+    font-weight: bold;
+}
+.p .p2{
+    float: left;
+    margin-top: 62px;
+    margin-left: -90px;
+
+}
+.p .p3{
+    float: left;
+    margin-top: 82px;
+    margin-left: -130px;
+
+}
+.p .p4{
+    float: left;
+    margin-top: 105px;
+    margin-left: -195px;
+}
+.cardd{
+    background-image: url("../img/business-card-mockup-vol-9-104.avif");
+    background-size: cover;
+    width: 150px;
+    height: 120px;
+    margin-top: 200px;
+    position: relative;
+}
+.cardd .overlay{
+    position: absolute;
+    width: 150px;
+    height: 120px;
+    background-color: black;
+    opacity: .2;
+}
+.cardd:hover .overlay{
+    opacity: .4;
+    cursor: pointer;
+}
+.cardd p{
+    color: rgb(255, 255, 255);
+    font-weight:bold;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 40px;
+}
+
+
+.carddd{
+    background-image: url("../img/artwork-frame-psd-mockup-vol-4-100.avif");
+    background-size: cover;
+    width: 150px;
+    height: 120px;
+    margin-top: 200px;
+    position: absolute;
+    top: 360px;
+    left: 86%;
+}
+.carddd .overlay{
+    position: absolute;
+    width: 150px;
+    height: 120px;
+    background-color: black;
+    opacity: .3;
+}
+.carddd p{
+    color: rgb(5, 5, 5);
+    font-weight:bold;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 40px;
+}
+.carddd:hover .overlay{
+    opacity: .5;
+    cursor: pointer;
+}
+
+.cardd1{
+    background-image: url("../img/realistic-stationery-psd-mockup-166.avif");
+    background-size: cover;
+    width: 150px;
+    height: 120px;
+    margin-top: 20px;
+    position: relative;
+}
+.cardd1 .overlay{
+    position: absolute;
+    width: 150px;
+    height: 120px;
+    background-color: black;
+    opacity: .2;
+}
+.cardd1:hover .overlay{
+    opacity: .4;
+    cursor: pointer;
+}
+.cardd1 p{
+    color:black;
+    font-weight:bold;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 40px;
+}
+
+
+.carddd2{
+    background-image: url("../img/33333333333333.avif");
+    background-size: cover;
+    width: 150px;
+    height: 120px;
+    margin-top: 200px;
+    position: absolute;
+    top: 500px;
+    left: 86%;
+}
+.carddd2 .overlay{
+    position: absolute;
+    width: 150px;
+    height: 120px;
+    background-color: black;
+    opacity: .3;
+}
+.carddd2 p{
+    color: rgb(0, 0, 0);
+    font-weight:bold;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 40px;
+}
+.carddd2:hover .overlay{
+    opacity: .5;
+    cursor: pointer;
+}
+
+.cardd3{
+    background-image: url("../img/44444444444444444444.avif");
+    background-size: cover;
+    width: 150px;
+    height: 120px;
+    margin-top: 20px;
+    position: relative;
+}
+.cardd3 .overlay{
+    position: absolute;
+    width: 150px;
+    height: 120px;
+    background-color: black;
+    opacity: .2;
+}
+.cardd3:hover .overlay{
+    opacity: .4;
+    cursor: pointer;
+}
+.cardd3 p{
+    color: rgb(0, 0, 0);
+    font-weight:bold;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 40px;
+}
+
+
+.carddd4{
+    background-image: url("../img/5555555555555555555555.avif");
+    background-size: cover;
+    width: 150px;
+    height: 120px;
+    margin-top: 200px;
+    position: absolute;
+    top: 637px;
+    left: 86%;
+}
+.carddd4 .overlay{
+    position: absolute;
+    width: 150px;
+    height: 120px;
+    background-color: black;
+    opacity: .3;
+}
+.carddd4 p{
+    color: rgb(5, 5, 5);
+    font-weight:bold;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 40px;
+}
+.carddd4:hover .overlay{
+    opacity: .5;
+    cursor: pointer;
+}
+
+
+.cardd5{
+    background-image: url("../img//666666666666666666.avif");
+    background-size: cover;
+    width: 150px;
+    height: 120px;
+    margin-top: 20px;
+    position: relative;
+}
+.cardd5 .overlay{
+    position: absolute;
+    width: 150px;
+    height: 120px;
+    background-color: black;
+    opacity: .2;
+}
+.cardd5:hover .overlay{
+    opacity: .4;
+    cursor: pointer;
+}
+.cardd5 p{
+    color: rgb(0, 0, 0);
+    font-weight:bold;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 40px;
+}
+
+
+.carddd6{
+    background-image: url("../img/777777777777777777777.avif");
+    background-size: cover;
+    width: 150px;
+    height: 120px;
+    margin-top: 200px;
+    position: absolute;
+    top: 777px;
+    left: 86%;
+}
+.carddd6 .overlay{
+    position: absolute;
+    width: 150px;
+    height: 120px;
+    background-color: black;
+    opacity: .3;
+}
+.carddd6 p{
+    color: rgb(5, 5, 5);
+    font-weight:bold;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 40px;
+}
+.carddd6:hover .overlay{
+    opacity: .5;
+    cursor: pointer;
+}
+
+
+
+.contaner{
+    display: flex;
+    justify-content: center;
+    margin-left: 30px;
+}
+
+
+
+
+#div15 img{
+    width: 100px;
+    padding-left: 10px;
+    margin-top: 20px;
+    cursor:pointer;
+}
+#div16 img{
+    width: 570px;
+    height: 400px;
+    cursor:pointer;
+}
+h5{
+    margin-left: 40px;
+    font-weight: bold;
+
+}
+#hr1{
+    width: 60px;
+    margin-left: 40px;
+    margin-top: -4px;
+    height: 2px;
+    color:rgb(9, 26, 61);
+    background-color: rgb(9, 26, 61);
+}
+.blog h4{
+    color: rgb(56, 203, 56);
+    margin-left: 65px;
+}
+.card1{
+    width: 400px;
+}
+.card1 img{
+    height: 190px;
+}
+#bb{
+    display: grid;
+    grid-template-columns: 33.3% 33.3% 33.3%;
+    margin-left: 55px;
+}
+
+.footer{
+    background-color:rgb(7, 59, 76);
+    height: 300px;
+    margin-top: 50px;
+}
+.f1{
+    display: flex;
+    width: 500px;
+    justify-content: space-around;
+    float: right;
+    margin-right: 100px;
+}
+.a12{
+    text-decoration: none;
+    color: aliceblue;
+    background-color:  rgb(63, 175, 63);
+    padding: 20px;
+
+}
+.a12:hover{
+    color: aliceblue;
+    background-color:  rgb(63, 175, 63);
+}
+.f1 p{
+    margin-top: 17px;
+    color: gray;
+}
+.hr1{
+    color: aliceblue;
+}
+.f2{
+    display: flex;
+    justify-content: space-around;
+}
+.links{
+    margin-top: 7px;
+}
+.links a{
+    padding-left: 50px;
+    color: gray;
+    text-decoration: none;
+}
+.links a:hover{
+    color: rgb(63, 175, 63);
+    background-color:rgb(7, 59, 76) ;
+}
+
+
+.links2 i{
+    color: aliceblue;
+    padding: 20px;
+}
+
+.links2 a:hover{
+    background-color: rgb(63, 175, 63);
+    color: white;
+    padding: 5px;
+    border-radius: 15px;
+}
+#img1{
+    width: 100px;
+    margin-left: 50%;
+    margin-top: 15px;
+}
+#p1{
+    color: gray;
+    text-align: center;
+    margin-left: 100px;
+}
+#cc h5{
+    margin-left: 0px;
+}
+
+.LI{
+    margin-top: 620px;
+    margin-left: -495px;
+    position: relative;
+}
+.LI .aa1{
+    padding: 5px 15px;
+    background-color: rgb(16, 16, 91);
+    color: aliceblue;
+    text-decoration: none;
+    border-radius: 3px;
+}
+.LI .aa2{
+    padding: 5px 15px;
+    background-color: rgb(50, 211, 255);
+    color: aliceblue;
+    text-decoration: none;
+    border-radius: 3px;
+}
+.LI .aa3{
+    padding: 5px 15px;
+    background-color: brown;
+    color: aliceblue;
+    text-decoration: none;
+    border-radius: 3px;
+
+}
+.LI-P{
+    margin-top: 20px;
+    margin-left: -28.7px;
+}
+.lii{
+    margin-left: -500px;
+    
+}
+.lii a{
+    
+    padding: 5px 2px;
+    background-color: rgba(217, 217, 217,.1);
+    text-decoration: none;
+    color:rgb(63, 175, 63) ;
+    border-radius: 5px;
+    border: 1px solid gray;
+    position: relative;
+    left: 50px;
+    top: -35px;
+}
+#im:hover{
+    color:rgb(63, 175, 63) ;
+}
+.lii a:hover{
+    color: black;
+    text-decoration: underline;
+}
+#LI-Pp{
+    margin-left: -700px;
+    margin-top: 10px;   
+}

@@ -1,0 +1,180 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.header1{
+    background-color:rgb(19, 44, 60);
+    height: 70px;
+    margin-top: -20px;
+    
+}
+.header1 p{
+    color: aliceblue;
+    margin-left: 150px;
+    padding-top: 30px;
+}
+#im:hover{
+    color: rgb(63, 175, 63);
+}
+#imm:hover{
+    color: rgb(63, 175, 63);
+}
+.header2{
+    background-color: rgb(7, 59, 76);
+    height: 80px;
+}
+.header2 img{
+    margin-top: -5px;
+    margin-left: 125px;
+}
+.nav-item a{
+    color: aliceblue;
+}
+/*.search{
+    margin-left: 37%;
+    margin-top: -50px;
+}
+.search input{
+    width: 300px;
+    height: 50px;
+    
+    float: right;
+    margin-right: 70px;
+    border-radius: 5px;
+}*/
+.div11{
+    width: 200px;
+    border: 2px solid black;
+}
+.p-h1{
+    margin-left: 150px;
+}
+.p-a{
+    margin-left: 150px;
+}
+.p-a a{
+    text-decoration: none;
+}
+#a1{
+    color: rgb(63, 175, 63);
+}
+#a2{
+    color: gray;
+}
+#a1:hover{
+    color: rgb(7, 59, 76);
+    text-decoration: underline;
+}
+#a2:hover{
+    cursor:auto;
+}
+.plate{
+    margin-top: 30px;
+}
+
+.search{
+    float: right;
+    margin-top: -70px;
+    margin-right: 105px;
+
+}
+.search input{
+    width: 350px;
+    border: 1px solid gray;
+}
+.search i{
+    position: absolute;
+    margin-left: 310px;
+    margin-top: -40px;
+    cursor: pointer;
+}
+.div41{
+    width: 100%;
+    height: 500px;
+    text-align: center;
+    padding-top: 200px;
+    background-color:aliceblue;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+.iframe{
+    width:100%;
+    height: 700px;    
+    margin-bottom: 150px;
+} 
+.h3{
+    color: rgb(63, 175, 63);
+}
+
+.footer{
+    background-color:rgb(7, 59, 76);
+    height: 300px;
+    margin-top: 50px;
+}
+.f1{
+    display: flex;
+    width: 500px;
+    justify-content: space-around;
+    float: right;
+    margin-right: 100px;
+}
+.a12{
+    text-decoration: none;
+    color: aliceblue;
+    background-color:  rgb(63, 175, 63);
+    padding: 20px;
+
+}
+.a12:hover{
+    color: aliceblue;
+    background-color:  rgb(63, 175, 63);
+}
+.f1 p{
+    margin-top: 17px;
+    color: gray;
+}
+.hr1{
+    color: aliceblue;
+}
+.f2{
+    display: flex;
+    justify-content: space-around;
+}
+.links{
+    margin-top: 7px;
+}
+.links a{
+    padding-left: 50px;
+    color: gray;
+    text-decoration: none;
+}
+.links a:hover{
+    color: rgb(63, 175, 63);
+    background-color:rgb(7, 59, 76) ;
+}
+
+
+.links2 i{
+    color: aliceblue;
+    padding: 20px;
+}
+
+.links2 a:hover{
+    background-color: rgb(63, 175, 63);
+    color: white;
+    padding: 5px;
+    border-radius: 15px;
+}
+#img1{
+    width: 100px;
+    margin-left: 50%;
+    margin-top: 15px;
+}
+#p1{
+    color: gray;
+    text-align: center;
+    margin-left: 100px;
+}
+.sp1{
+    color: rgb(63, 175, 63);
+}
